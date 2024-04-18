@@ -1,2 +1,2 @@
-# Personal-Voice-Assistant---Python
-A personal voice assistant named "LISH" with a lot of capabilities. It is connected with different API's like Chat GPT, Weather etc. 
+# Personal-Voice-Assistant- "Venus"
+he project is all about creating a virtual artificial intelligence personal assistant named "Venus". It is capable of performing most of the actions that an AI Agent can do. It is powered by OpenAI Api and the code is written in python.
